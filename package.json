@@ -1,19 +1,19 @@
 {
   "author": "Nathan DELHAYE",
-  "name": "ccms-utils",
-  "description": "CCMS utils modules",
-  "version": "0.0.1",
+  "name": "nuage-utils",
+  "description": "Nuage utils modules",
+  "version": "0.0.2",
   "repository": {
-    "url": "https://pikacode.com/redcat/ccms-utils/"
+    "url": "https://github.com/theredcat/nuage-utils.git"
   },
   "main": "./lib/utils.js",
   "keywords": [
-    "ccms",
+    "nuage",
     "date",
     "format"
   ],
   "dependencies": {
-    "dateformat" : "1.0.7-1.2.3"
+    "dateformat" : "1.2.x"
   },
   "engines": {
     "node": "*"
