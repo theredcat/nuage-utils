@@ -2,7 +2,7 @@
   "author": "Nathan DELHAYE",
   "name": "nuage-utils",
   "description": "Nuage utils modules",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "repository": {
     "url": "https://github.com/theredcat/nuage-utils.git"
   },
@@ -13,7 +13,7 @@
     "format"
   ],
   "dependencies": {
-    "dateformat" : "1.2.x"
+    "dateformat" : "1.0.8-1.2.3"
   },
   "engines": {
     "node": "*"
