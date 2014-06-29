@@ -1,0 +1,21 @@
+{
+  "author": "Nathan DELHAYE",
+  "name": "ccms-utils",
+  "description": "CCMS utils modules",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://pikacode.com/redcat/ccms-utils/"
+  },
+  "main": "./lib/utils.js",
+  "keywords": [
+    "ccms",
+    "date",
+    "format"
+  ],
+  "dependencies": {
+    "dateformat" : "1.0.7-1.2.3"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
